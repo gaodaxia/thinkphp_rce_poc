@@ -18,4 +18,4 @@ optional arguments:
 
 ```
 # Screenshot:
-![avatar](https://github.com/heroanswer/thinkphp_rce_poc/blob/master/screenshot.jpg)
+![avatar](https://github.com/heroanswer/thinkphp_rce_poc/blob/master/screenshot.png)
