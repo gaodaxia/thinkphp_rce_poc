@@ -4,7 +4,7 @@
 pip install -r requirements.txt
 # Usage:
 ```
-python thinkphp_rce_poc.py -h
+python thinkphp_rce_poc.py -m testurls.txt
 usage: thinkphp rce poc [options]
 
 The thinkphp rce test
@@ -15,7 +15,6 @@ optional arguments:
                         scan multiple targets given in a textual file
   -o OUTFILE, --output OUTFILE
                         output file name,default is url.txt
-
 ```
 # Screenshot:
 ![avatar](https://github.com/heroanswer/thinkphp_rce_poc/blob/master/screenshot.png)
