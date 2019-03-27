@@ -17,4 +17,4 @@ optional arguments:
                         output file name,default is url.txt
 ```
 # Screenshot:
-![avatar](https://github.com/heroanswer/thinkphp_rce_poc/blob/master/screenshot.png)
+![avatar](https://github.com/heroanswer/thinkphp_rce_poc/blob/master/screenshot.jpg)
